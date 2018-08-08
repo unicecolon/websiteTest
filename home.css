@@ -1,0 +1,21 @@
+.box
+{
+    width: 40%;
+    height: 350px;
+    margin: 8px;
+    background-color: rgb(0, 0, 0);/* Your Color */
+    display: flex;
+    align-content: space-around;
+
+    
+}
+
+.box2
+{
+    width: 60%;
+    height: 400px;
+    margin: 8px;
+    background-color: #fff;
+    display: flex;
+    align-content: space-around;
+}
